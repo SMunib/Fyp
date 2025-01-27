@@ -19,7 +19,8 @@ H.Y.D.R.A (**Hybrid Yield Data and Revenue Analytics**) is a machine learning-ba
 
 ## 🛠️ Technologies Used  
 - **Programming Language**: Python  
-- **Development Environment**: Google Colab  
+- **Development Environment**: Google Colab
+- **Dataset**: https://www.kaggle.com/c/favorita-grocery-sales-forecasting/data
 - **Libraries**:  
   - Data Manipulation: `Pandas`, `NumPy`  
   - Visualization: `Matplotlib`, `Seaborn`  
