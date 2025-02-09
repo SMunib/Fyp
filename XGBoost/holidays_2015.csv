@@ -1,0 +1,53 @@
+date,type,locale,locale_name,description,transferred
+2015-01-01,Holiday,National,Ecuador,Primer dia del ano,False
+2015-01-02,Bridge,National,Ecuador,Puente Primer dia del ano,False
+2015-01-10,Work Day,National,Ecuador,Recupero Puente Primer dia del ano,False
+2015-02-16,Holiday,National,Ecuador,Carnaval,False
+2015-02-17,Holiday,National,Ecuador,Carnaval,False
+2015-03-02,Holiday,Local,Manta,Fundacion de Manta,False
+2015-04-01,Holiday,Regional,Cotopaxi,Provincializacion de Cotopaxi,False
+2015-04-03,Holiday,National,Ecuador,Viernes Santo,False
+2015-04-12,Holiday,Local,Cuenca,Fundacion de Cuenca,False
+2015-04-14,Holiday,Local,Libertad,Cantonizacion de Libertad,False
+2015-04-21,Holiday,Local,Riobamba,Cantonizacion de Riobamba,False
+2015-05-01,Holiday,National,Ecuador,Dia del Trabajo,False
+2015-05-09,Additional,National,Ecuador,Dia de la Madre-1,False
+2015-05-10,Event,National,Ecuador,Dia de la Madre,False
+2015-05-12,Holiday,Local,Puyo,Cantonizacion del Puyo,False
+2015-05-24,Holiday,National,Ecuador,Batalla de Pichincha,False
+2015-06-23,Holiday,Local,Guaranda,Cantonizacion de Guaranda,False
+2015-06-25,Holiday,Local,Machala,Fundacion de Machala,False
+2015-06-25,Holiday,Regional,Imbabura,Provincializacion de Imbabura,False
+2015-06-25,Holiday,Local,Latacunga,Cantonizacion de Latacunga,False
+2015-07-03,Holiday,Local,El Carmen,Cantonizacion de El Carmen,False
+2015-07-03,Holiday,Local,Santo Domingo,Fundacion de Santo Domingo,False
+2015-07-23,Holiday,Local,Cayambe,Cantonizacion de Cayambe,False
+2015-07-24,Holiday,Local,Guayaquil,Fundacion de Guayaquil-1,False
+2015-07-25,Holiday,Local,Guayaquil,Fundacion de Guayaquil,False
+2015-08-05,Holiday,Local,Esmeraldas,Fundacion de Esmeraldas,False
+2015-08-10,Holiday,National,Ecuador,Primer Grito de Independencia,False
+2015-08-15,Holiday,Local,Riobamba,Fundacion de Riobamba,False
+2015-08-24,Holiday,Local,Ambato,Fundacion de Ambato,False
+2015-09-28,Holiday,Local,Ibarra,Fundacion de Ibarra,False
+2015-10-07,Holiday,Local,Quevedo,Cantonizacion de Quevedo,False
+2015-10-09,Holiday,National,Ecuador,Independencia de Guayaquil,False
+2015-11-02,Holiday,National,Ecuador,Dia de Difuntos,False
+2015-11-03,Holiday,National,Ecuador,Independencia de Cuenca,False
+2015-11-06,Holiday,Regional,Santo Domingo de los Tsachilas,Provincializacion de Santo Domingo,False
+2015-11-07,Holiday,Regional,Santa Elena,Provincializacion Santa Elena,False
+2015-11-10,Holiday,Local,Guaranda,Independencia de Guaranda,False
+2015-11-11,Holiday,Local,Latacunga,Independencia de Latacunga,False
+2015-11-12,Holiday,Local,Ambato,Independencia de Ambato,False
+2015-11-27,Event,National,Ecuador,Black Friday,False
+2015-11-30,Event,National,Ecuador,Cyber Monday,False
+2015-12-05,Additional,Local,Quito,Fundacion de Quito-1,False
+2015-12-06,Holiday,Local,Quito,Fundacion de Quito,False
+2015-12-08,Holiday,Local,Loja,Fundacion de Loja,False
+2015-12-21,Additional,National,Ecuador,Navidad-4,False
+2015-12-22,Additional,National,Ecuador,Navidad-3,False
+2015-12-22,Holiday,Local,Salinas,Cantonizacion de Salinas,False
+2015-12-23,Additional,National,Ecuador,Navidad-2,False
+2015-12-24,Additional,National,Ecuador,Navidad-1,False
+2015-12-25,Holiday,National,Ecuador,Navidad,False
+2015-12-26,Additional,National,Ecuador,Navidad+1,False
+2015-12-31,Additional,National,Ecuador,Primer dia del ano-1,False
