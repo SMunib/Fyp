@@ -12,9 +12,10 @@ H.Y.D.R.A (**Hybrid Yield Data and Revenue Analytics**) is a machine learning-ba
   - **SARIMA**: Traditional statistical forecasting.  
   - **XGBoost**: Gradient-boosted decision tree model.  
   - **LSTM**: Sequential deep learning model for time-series data.  
-  - **TFT Transformer**: Advanced temporal pattern recognition model.  
+  - **TFT Transformer**: Advanced temporal pattern recognition model.
+  - **DCGAN Benchmark (2025 Research)**: Evaluated a Transformer GAN (DCGAN) approach from a recent 2025 research paper to benchmark generative sequence forecasting performance.  
+- **ShadowLearning Technique**: Introduced a novel shadowlearning mechanism — a pattern-filtering technique where repetitive trends already seen in earlier sequences are discarded, allowing the model to focus only on learning new emerging patterns. This not only reduces training time significantly but also preserves predictive performance.
 - **Performance Evaluation**: Analyzed and compared model results to identify the optimal approach for large-scale datasets.
-
 ---
 
 ## 🛠️ Technologies Used  
@@ -24,7 +25,5 @@ H.Y.D.R.A (**Hybrid Yield Data and Revenue Analytics**) is a machine learning-ba
 - **Libraries**:  
   - Data Manipulation: `Pandas`, `NumPy`  
   - Visualization: `Matplotlib`, `Seaborn`  
-  - Machine Learning: `Scikit-learn`, `XGBoost`, `TensorFlow`, `PyTorch`
-
+  - Machine Learning: `Scikit-learn`, `XGBoost`,`PyTorch`
 ---
-
